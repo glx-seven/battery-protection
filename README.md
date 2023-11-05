@@ -6,3 +6,6 @@ It is designed to be a flex-PCB, also it can technically be cut down to use it w
 I have attached gerber files so you can order it at your favourite PCB-manufacturer, I did use JLCPCB's flex-PCBs and they came out nicely.
 
 The N-FETs used are probably a litte oversized but I used them because I had them on hand and they have a low Vgs and low Rds(on). Feel free to use different/cheaper ones, that's why I uploades all the source files.
+
+
+![picture of the PCB](/battery-protection.jpg)
